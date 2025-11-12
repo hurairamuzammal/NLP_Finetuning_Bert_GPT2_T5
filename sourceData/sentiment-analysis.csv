@@ -1,0 +1,457 @@
+Text, Sentiment, Source, Date/Time, User ID, Location, Confidence Score
+I love this product!, Positive, Twitter, 2023-06-15 09:23:14, @user123, New York,0.85
+The service was terrible., Negative, Yelp Reviews, 2023-06-15 11:45:32, user456, Los Angeles,0.65
+This movie is amazing!, Positive, IMDb, 2023-06-15 14:10:22, moviefan789, London,0.92
+I'm so disappointed with their customer support., Negative, Online Forum, 2023-06-15 17:35:11, forumuser1, Toronto,0.78
+Just had the best meal of my life!, Positive, TripAdvisor, 2023-06-16 08:50:59, foodie22, Paris,0.88
+The quality of this product is subpar., Negative, Amazon Reviews, 2023-06-16 10:15:27, shopper123, San Francisco,0.72
+I can't stop listening to this song. It's incredible!, Positive, Spotify, 2023-06-16 13:40:18, musiclover456, Berlin,0.91
+Their website is so user-friendly. Love it!, Positive, Website Testimonial, 2023-06-16 16:05:36, testimonialuser1, Sydney,0.87
+I loved the movie! It was fantastic!, Positive, IMDb, 2023-07-02 09:12:34, user123, New York,0.92
+The customer service was terrible., Negative, Yelp Reviews, 2023-07-02 10:45:21, user456, Los Angeles,0.65
+This book made me feel inspired. Highly recommended!, Positive, Goodreads, 2023-07-02 12:34:56, bookworm789, London,0.88
+I'm extremely disappointed with their product quality., Negative, Online Store, 2023-07-02 15:21:43, shopper789, San Francisco,0.72
+Just had the most amazing vacation! I can't wait to go back., Positive, TripAdvisor, 2023-07-02 18:01:23, travelenthusiast1, Sydney,0.93
+The food at this restaurant was awful. Never going back again!, Negative, Zomato, 2023-07-02 20:45:37, foodlover123, Mumbai,0.55
+I can't stop listening to this song. It's my new favorite!, Positive, Spotify, 2023-07-03 09:17:52, musiclover789, Berlin,0.91
+Their website is so confusing and poorly designed., Negative, Website Review, 2023-07-03 11:59:18, user789, Toronto,0.68
+I had an incredible experience at the theme park. So much fun!, Positive, Trip Report, 2023-07-03 14:40:05, thrillseeker1, Orlando,0.89
+The product arrived damaged. Very disappointed., Negative, Online Store, 2023-07-03 17:25:09, buyer123, Chicago,0.76
+The concert was absolutely breathtaking. Best performance ever!, Positive, Event Review, 2023-07-03 20:15:33, musicfan456, Paris,0.95
+I had a terrible experience with their customer support., Negative, Online Chat, 2023-07-04 08:32:41, user1234, Sydney,0.61
+This movie is a masterpiece! I was blown away., Positive, IMDb, 2023-07-04 14:05:27, cinephile789, Los Angeles,0.93
+The customer service at this store is top-notch., Positive, Yelp Reviews, 2023-07-04 16:35:19, shopper456, New York,0.82
+I'm disappointed with the ending of this book. It fell flat., Negative, Goodreads, 2023-07-04 19:18:53, booklover123, London,0.68
+The product I received was damaged. Unacceptable., Negative, Online Store, 2023-07-04 21:52:41, buyer789, San Francisco,0.75
+Just had the worst flight experience. Delayed and rude staff., Negative, Airline Review, 2023-07-05 09:10:15, traveler456, Sydney,0.57
+The hotel stay was absolutely amazing! Luxury at its finest., Positive, TripAdvisor, 2023-07-05 12:30:08, traveladdict1, Paris,0.95
+The food at this restaurant was outstanding. Highly recommended!, Positive, Zomato, 2023-07-05 15:45:32, foodie789, Mumbai,0.89
+This playlist is my go-to for workouts. Energizing and motivating!, Positive, Spotify, 2023-07-05 18:20:17, gymrat123, Berlin,0.91
+I had a frustrating experience navigating through their website., Negative, Website Review, 2023-07-05 21:05:44, user987, Toronto,0.67
+The roller coaster ride was thrilling! Heart-pounding excitement!, Positive, Theme Park Review, 2023-07-06 08:48:39, thrillseeker2, Orlando,0.92
+The product I ordered never arrived. Terrible service., Negative, Online Store, 2023-07-06 11:25:56, customer123, Chicago,0.64
+I can't get enough of this band. Their music is incredible!, Positive, Music Review, 2023-07-06 14:15:23, musiclover987, London,0.94
+I had a great chat with their customer support. Helpful and friendly., Positive, Online Chat, 2023-07-06 17:02:11, user7890, Sydney,0.85
+This restaurant has the most delicious food. I can't wait to go back!, Positive, TripAdvisor, 2023-07-09 09:12:54, foodie123, Paris,0.94
+The product I purchased broke within a week. Poor quality., Negative, Online Store, 2023-07-09 11:45:32, shopper246, Los Angeles,0.61
+This book is thought-provoking and beautifully written. Highly recommended!, Positive, Goodreads, 2023-07-09 14:23:18, bookworm567, London,0.89
+The customer service at this store is exceptional. They went above and beyond., Positive, Retail Store, 2023-07-09 17:05:46, shopper7890, New York,0.87
+I had a terrible experience with their technical support. No resolution., Negative, Online Helpdesk, 2023-07-09 19:40:27, user9876, San Francisco,0.63
+The live concert was electrifying! The band's energy was contagious., Positive, Event Review, 2023-07-10 08:50:13, musiclover7890, Sydney,0.92
+I'm disappointed with the food at this restaurant. It was tasteless., Negative, Zomato, 2023-07-10 11:32:59, foodcritic123, Mumbai,0.68
+This song always puts me in a good mood. It's my go-to feel-good track!, Positive, Spotify, 2023-07-10 14:20:05, playlistlover456, Berlin,0.93
+The website is slow and unresponsive. Difficult to navigate., Negative, Website Review, 2023-07-10 17:15:22, user24680, Toronto,0.65
+The roller coaster ride was exhilarating! Pure adrenaline rush!, Positive, Theme Park Review, 2023-07-10 20:02:37, thrillseeker789, Orlando,0.95
+The product I ordered arrived damaged. Very disappointed with the packaging., Negative, Online Store, 2023-07-11 08:40:51, buyer7890, Chicago,0.67
+I'm captivated by this band's unique sound. They're a breath of fresh air!, Positive, Music Review, 2023-07-11 11:22:17, musicfan567, London,0.94
+The customer support was quick to respond and resolved my issue. Impressed!, Positive, Online Chat, 2023-07-11 14:18:42, user123456, Sydney,0.85
+This restaurant has the best food. I highly recommend it!, Positive, Yelp Reviews, 2023-07-11 17:30:15, foodie246, Los Angeles,0.9
+The plot of this movie is confusing and hard to follow., Negative, IMDb, 2023-07-11 20:15:42, moviegoer789, London,0.62
+I'm addicted to this game. It's so much fun!, Positive, Gaming Forum, 2023-07-12 09:05:59, gamer123, New York,0.88
+The customer service at this hotel was terrible. Avoid at all costs., Negative, Travel Website, 2023-07-12 11:45:27, traveler246, Paris,0.57
+This book bored me to tears. I couldn't finish it., Negative, Goodreads, 2023-07-12 14:30:18, bookworm246, San Francisco,0.68
+I'm impressed with the sound quality of these headphones. Excellent!, Positive, Online Store, 2023-07-12 17:10:36, audiophile789, Berlin,0.92
+The website design is sleek and user-friendly. Easy to navigate., Positive, Website Testimonial, 2023-07-13 08:50:59, testimonialuser2, Sydney,0.87
+I had a terrible experience with their delivery service. Late and unprofessional., Negative, Online Store, 2023-07-13 11:25:27, shopper4567, Chicago,0.64
+The concert was mind-blowing! The band knows how to put on a show., Positive, Event Review, 2023-07-13 14:05:42, musiclover1234, Paris,0.95
+I'm extremely disappointed with the customer support. No resolution., Negative, Online Chat, 2023-07-13 16:35:19, user98765, Toronto,0.61
+The hotel staff were rude and unprofessional. Terrible customer service., Negative, Hotel Review, 2023-07-17 08:50:13, traveler789, Paris,0.55
+The food at this restaurant was mediocre. Nothing special., Negative, Zomato, 2023-07-17 11:32:59, foodlover2468, Mumbai,0.65
+This song always puts me in a nostalgic mood. It reminds me of good times., Positive, Spotify, 2023-07-17 14:20:05, nostalgiacat123, Berlin,0.88
+The website loading speed is frustratingly slow. Needs improvement., Negative, Website Review, 2023-07-17 17:15:22, user12345, Toronto,0.62
+The food at this cafe exceeded my expectations. Absolutely delicious!, Positive, Food Blog, 2023-07-13 19:18:53, foodlover246, Mumbai,0.92
+I'm disappointed with the ending of this TV show. It left too many unanswered questions., Negative, TV Show Review, 2023-07-14 08:32:41, tvfan123, Los Angeles,0.66
+This album is a masterpiece. Every song is a work of art!, Positive, Music Review, 2023-07-14 11:05:27, musicenthusiast1, London,0.93
+The website layout is cluttered and confusing. Difficult to find information., Negative, Website Review, 2023-07-14 14:40:05, user2468, Sydney,0.67
+The roller coaster at this theme park is a thrilling experience. A must-try!, Positive, Theme Park Review, 2023-07-14 17:25:09, thrillseeker3, Orlando,0.91
+The product I ordered never arrived. Poor customer service., Negative, Online Store, 2023-07-15 08:50:13, buyer1234, Chicago,0.63
+I'm in awe of this artist's talent. Their paintings are breathtaking!, Positive, Art Review, 2023-07-15 12:30:08, artlover123, Paris,0.94
+The food at this restaurant was disappointing. Not worth the price., Negative, Zomato, 2023-07-15 15:45:32, foodcritic246, Mumbai,0.68
+This playlist is perfect for relaxation. Soothing and calming!, Positive, Spotify, 2023-07-15 18:20:17, relaxmusiclover, Berlin,0.91
+The website navigation is smooth and intuitive. I found what I needed quickly., Positive, Website Testimonial, 2023-07-15 21:05:44, happyuser123, Toronto,0.88
+The ride on this cruise ship was an unforgettable experience. I loved every moment!, Positive, Travel Blog, 2023-07-16 09:12:54, travelenthusiast2, Sydney,0.95
+The product I received was of poor quality. It broke after a few uses., Negative, Online Store, 2023-07-16 11:45:32, shopper567, Los Angeles,0.61
+This book kept me hooked from start to finish. A captivating read!, Positive, Goodreads, 2023-07-16 14:23:18, bookworm7890, London,0.9
+The customer service at this store is outstanding. They truly care about their customers., Positive, Retail Store, 2023-07-16 17:05:46, happyshopper1, New York,0.92
+I had a frustrating experience with their technical support. No resolution provided., Negative, Online Helpdesk, 2023-07-16 19:40:27, user98765, San Francisco,0.67
+The hotel staff were rude and unprofessional. Terrible customer service., Negative, Hotel Review, 2023-07-17 08:50:13, traveler789, Paris,0.55
+The food at this restaurant was mediocre. Nothing special., Negative, Zomato, 2023-07-17 11:32:59, foodlover2468, Mumbai,0.65
+This song always puts me in a nostalgic mood. It reminds me of good times., Positive, Spotify, 2023-07-17 14:20:05, nostalgiacat123, Berlin,0.88
+The website loading speed is frustratingly slow. Needs improvement., Negative, Website Review, 2023-07-17 17:15:22, user12345, Toronto,0.62
+I love this product!, Positive, Twitter, 2023-06-15 09:23:14, @user123, New York,0.85
+The service was terrible., Negative, Yelp Reviews, 2023-06-15 11:45:32, user456, Los Angeles,0.65
+This movie is amazing!, Positive, IMDb, 2023-06-15 14:10:22, moviefan789, London,0.92
+I'm so disappointed with their customer support., Negative, Online Forum, 2023-06-15 17:35:11, forumuser1, Toronto,0.78
+Just had the best meal of my life!, Positive, TripAdvisor, 2023-06-16 08:50:59, foodie22, Paris,0.88
+The quality of this product is subpar., Negative, Amazon Reviews, 2023-06-16 10:15:27, shopper123, San Francisco,0.72
+I can't stop listening to this song. It's incredible!, Positive, Spotify, 2023-06-16 13:40:18, musiclover456, Berlin,0.91
+Their website is so user-friendly. Love it!, Positive, Website Testimonial, 2023-06-16 16:05:36, testimonialuser1, Sydney,0.87
+I loved the movie! It was fantastic!, Positive, IMDb, 2023-07-02 09:12:34, user123, New York,0.92
+The customer service was terrible., Negative, Yelp Reviews, 2023-07-02 10:45:21, user456, Los Angeles,0.65
+This book made me feel inspired. Highly recommended!, Positive, Goodreads, 2023-07-02 12:34:56, bookworm789, London,0.88
+I'm extremely disappointed with their product quality., Negative, Online Store, 2023-07-02 15:21:43, shopper789, San Francisco,0.72
+Just had the most amazing vacation! I can't wait to go back., Positive, TripAdvisor, 2023-07-02 18:01:23, travelenthusiast1, Sydney,0.93
+The food at this restaurant was awful. Never going back again!, Negative, Zomato, 2023-07-02 20:45:37, foodlover123, Mumbai,0.55
+I can't stop listening to this song. It's my new favorite!, Positive, Spotify, 2023-07-03 09:17:52, musiclover789, Berlin,0.91
+Their website is so confusing and poorly designed., Negative, Website Review, 2023-07-03 11:59:18, user789, Toronto,0.68
+I had an incredible experience at the theme park. So much fun!, Positive, Trip Report, 2023-07-03 14:40:05, thrillseeker1, Orlando,0.89
+Absolutely amazing,Positive,Amazon,2024-11-01,user_A1,London,0.95
+Total waste of money,Negative,Yelp Reviews,2024-11-02,reviewer99,Paris,0.91
+Highly recommend this product,Positive,Online Store,2024-11-03,happy_buyer,Tokyo,0.98
+Arrived broken,Negative,Etsy,2024-11-04,critic_22,New York,0.88
+Five stars,Positive,TripAdvisor,2024-11-05,test_user,Los Angeles,0.97
+Do not buy,Negative,Spotify,2024-11-06,anon56,Sydney,0.93
+Will buy again for sure,Positive,Website,2024-11-07,shopper_B,Berlin,0.96
+Worst product ever,Negative,eBay,2024-11-08,traveler_Z,Toronto,0.85
+Best purchase ever,Positive,Google Maps,2024-11-09,music_fan,Chicago,0.99
+Terrible quality,Negative,Zomato,2024-11-10,food_lover,San Francisco,0.90
+Fantastic quality,Positive,Goodreads,2024-11-11,book_nerd,Mumbai,0.97
+Hated it,Negative,Product Hunt,2024-11-12,tech_wiz,Seoul,0.82
+Loved it,Positive,Amazon,2024-11-13,art_fan,Mexico City,0.94
+Poor value,Negative,Yelp Reviews,2024-11-14,buyer_007,Singapore,0.79
+Great value,Positive,Online Store,2024-11-15,local_guide,Dubai,0.92
+Shipping was so slow,Negative,Etsy,2024-11-16,user7890,Madrid,0.86
+Super fast delivery,Positive,TripAdvisor,2024-11-17,client_3,Rome,0.95
+Rude customer service,Negative,Spotify,2024-11-18,patron_5,Moscow,0.81
+Excellent customer service,Positive,Website,2024-11-19,user_A1,London,0.97
+Did not fit,Negative,eBay,2024-11-20,reviewer99,Paris,0.77
+Perfect fit,Positive,Google Maps,2024-11-21,happy_buyer,Tokyo,0.96
+Not as advertised,Negative,Zomato,2024-11-22,critic_22,New York,0.89
+Exactly as described,Positive,Goodreads,2024-11-23,test_user,Los Angeles,0.98
+Horrible experience,Negative,Product Hunt,2024-11-24,anon56,Sydney,0.92
+Wonderful experience,Positive,Amazon,2024-11-25,shopper_B,Berlin,0.95
+So disappointed,Negative,Yelp Reviews,2024-11-26,traveler_Z,Toronto,0.84
+So impressed,Positive,Online Store,2024-11-27,music_fan,Chicago,0.97
+My new least favorite,Negative,Etsy,2024-11-28,food_lover,San Francisco,0.80
+My new favorite,Positive,TripAdvisor,2024-11-29,book_nerd,Mumbai,0.96
+Low quality,Negative,Spotify,2024-11-30,tech_wiz,Seoul,0.87
+Top quality,Positive,Website,2024-12-01,art_fan,Mexico City,0.99
+Very unsatisfied,Negative,eBay,2024-12-02,buyer_007,Singapore,0.83
+Very satisfied,Positive,Google Maps,2024-12-03,local_guide,Dubai,0.94
+Does not work,Negative,Zomato,2024-12-04,user7890,Madrid,0.91
+Works perfectly,Positive,Goodreads,2024-12-05,client_3,Rome,0.98
+A must-avoid item,Negative,Product Hunt,2024-12-06,patron_5,Moscow,0.88
+A must-have item,Positive,Amazon,2024-12-07,user_A1,London,0.97
+Truly awful,Negative,Yelp Reviews,2024-12-08,reviewer99,Paris,0.90
+Truly exceptional,Positive,Online Store,2024-12-09,happy_buyer,Tokyo,0.99
+Item never arrived,Negative,Etsy,2024-12-10,critic_22,New York,0.94
+Absolutely amazing,Positive,TripAdvisor,2024-12-11,test_user,Los Angeles,0.95
+Total waste of money,Negative,Spotify,2024-12-12,anon56,Sydney,0.91
+Highly recommend this product,Positive,Website,2024-12-13,shopper_B,Berlin,0.98
+Arrived broken,Negative,eBay,2024-12-14,traveler_Z,Toronto,0.88
+Five stars,Positive,Google Maps,2024-12-15,music_fan,Chicago,0.97
+Do not buy,Negative,Zomato,2024-12-16,food_lover,San Francisco,0.93
+Will buy again for sure,Positive,Goodreads,2024-12-17,book_nerd,Mumbai,0.96
+Worst product ever,Negative,Product Hunt,2024-12-18,tech_wiz,Seoul,0.85
+Best purchase ever,Positive,Amazon,2024-12-19,art_fan,Mexico City,0.99
+Terrible quality,Negative,Yelp Reviews,2024-12-20,buyer_007,Singapore,0.90
+Fantastic quality,Positive,Online Store,2024-12-21,local_guide,Dubai,0.97
+Hated it,Negative,Etsy,2024-12-22,user7890,Madrid,0.82
+Loved it,Positive,TripAdvisor,2024-12-23,client_3,Rome,0.94
+Poor value,Negative,Spotify,2024-12-24,patron_5,Moscow,0.79
+Great value,Positive,Website,2024-12-25,user_A1,London,0.92
+Shipping was so slow,Negative,eBay,2024-12-26,reviewer99,Paris,0.86
+Super fast delivery,Positive,Google Maps,2024-12-27,happy_buyer,Tokyo,0.95
+Rude customer service,Negative,Zomato,2024-12-28,critic_22,New York,0.81
+Excellent customer service,Positive,Goodreads,2024-12-29,test_user,Los Angeles,0.97
+Did not fit,Negative,Product Hunt,2024-12-30,anon56,Sydney,0.77
+Perfect fit,Positive,Amazon,2024-12-31,shopper_B,Berlin,0.96
+Not as advertised,Negative,Yelp Reviews,2025-01-01,traveler_Z,Toronto,0.89
+Exactly as described,Positive,Online Store,2025-01-02,music_fan,Chicago,0.98
+Horrible experience,Negative,Etsy,2025-01-03,food_lover,San Francisco,0.92
+Wonderful experience,Positive,TripAdvisor,2025-01-04,book_nerd,Mumbai,0.95
+So disappointed,Negative,Spotify,2025-01-05,tech_wiz,Seoul,0.84
+So impressed,Positive,Website,2025-01-06,art_fan,Mexico City,0.97
+My new least favorite,Negative,eBay,2025-01-07,buyer_007,Singapore,0.80
+My new favorite,Positive,Google Maps,2025-01-08,local_guide,Dubai,0.96
+Low quality,Negative,Zomato,2025-01-09,user7890,Madrid,0.87
+Top quality,Positive,Goodreads,2025-01-10,client_3,Rome,0.99
+Very unsatisfied,Negative,Product Hunt,2025-01-11,patron_5,Moscow,0.83
+Very satisfied,Positive,Amazon,2025-01-12,user_A1,London,0.94
+Does not work,Negative,Yelp Reviews,2025-01-13,reviewer99,Paris,0.91
+Works perfectly,Positive,Online Store,2025-01-14,happy_buyer,Tokyo,0.98
+A must-avoid item,Negative,Etsy,2025-01-15,critic_22,New York,0.88
+A must-have item,Positive,TripAdvisor,2025-01-16,test_user,Los Angeles,0.97
+Truly awful,Negative,Spotify,2025-01-17,anon56,Sydney,0.90
+Truly exceptional,Positive,Website,2025-01-18,shopper_B,Berlin,0.99
+Item never arrived,Negative,eBay,2025-01-19,traveler_Z,Toronto,0.94
+Absolutely amazing,Positive,Google Maps,2025-01-20,music_fan,Chicago,0.95
+Total waste of money,Negative,Zomato,2025-01-21,food_lover,San Francisco,0.91
+Highly recommend this product,Positive,Goodreads,2025-01-22,book_nerd,Mumbai,0.98
+Arrived broken,Negative,Product Hunt,2025-01-23,tech_wiz,Seoul,0.88
+Five stars,Positive,Amazon,2025-01-24,art_fan,Mexico City,0.97
+Do not buy,Negative,Yelp Reviews,2025-01-25,buyer_007,Singapore,0.93
+Will buy again for sure,Positive,Online Store,2025-01-26,local_guide,Dubai,0.96
+Worst product ever,Negative,Etsy,2025-01-27,user7890,Madrid,0.85
+Best purchase ever,Positive,TripAdvisor,2025-01-28,client_3,Rome,0.99
+Terrible quality,Negative,Spotify,2025-01-29,patron_5,Moscow,0.90
+Fantastic quality,Positive,Website,2025-01-30,user_A1,London,0.97
+Hated it,Negative,eBay,2025-01-31,reviewer99,Paris,0.82
+Loved it,Positive,Google Maps,2025-02-01,happy_buyer,Tokyo,0.94
+Poor value,Negative,Zomato,2025-02-02,critic_22,New York,0.79
+Great value,Positive,Goodreads,2025-02-03,test_user,Los Angeles,0.92
+Shipping was so slow,Negative,Product Hunt,2025-02-04,anon56,Sydney,0.86
+Super fast delivery,Positive,Amazon,2025-02-05,shopper_B,Berlin,0.95
+Rude customer service,Negative,Yelp Reviews,2025-02-06,traveler_Z,Toronto,0.81
+Excellent customer service,Positive,Online Store,2025-02-07,music_fan,Chicago,0.97
+Did not fit,Negative,Etsy,2025-02-08,food_lover,San Francisco,0.77
+Perfect fit,Positive,TripAdvisor,2025-02-09,book_nerd,Mumbai,0.96
+Not as advertised,Negative,Spotify,2025-02-10,tech_wiz,Seoul,0.89
+Exactly as described,Positive,Website,2025-02-11,art_fan,Mexico City,0.98
+Horrible experience,Negative,eBay,2025-02-12,buyer_007,Singapore,0.92
+Wonderful experience,Positive,Google Maps,2025-02-13,local_guide,Dubai,0.95
+So disappointed,Negative,Zomato,2025-02-14,user7890,Madrid,0.84
+So impressed,Positive,Goodreads,2025-02-15,client_3,Rome,0.97
+My new least favorite,Negative,Product Hunt,2025-02-16,patron_5,Moscow,0.80
+My new favorite,Positive,Amazon,2025-02-17,user_A1,London,0.96
+Low quality,Negative,Yelp Reviews,2025-02-18,reviewer99,Paris,0.87
+Top quality,Positive,Online Store,2025-02-19,happy_buyer,Tokyo,0.99
+Very unsatisfied,Negative,Etsy,2025-02-20,critic_22,New York,0.83
+Very satisfied,Positive,TripAdvisor,2025-02-21,test_user,Los Angeles,0.94
+Does not work,Negative,Spotify,2025-02-22,anon56,Sydney,0.91
+Works perfectly,Positive,Website,2025-02-23,shopper_B,Berlin,0.98
+A must-avoid item,Negative,eBay,2025-02-24,traveler_Z,Toronto,0.88
+A must-have item,Positive,Google Maps,2025-02-25,music_fan,Chicago,0.97
+Truly awful,Negative,Zomato,2025-02-26,food_lover,San Francisco,0.90
+Truly exceptional,Positive,Goodreads,2025-02-27,book_nerd,Mumbai,0.99
+Item never arrived,Negative,Product Hunt,2025-02-28,tech_wiz,Seoul,0.94
+Absolutely amazing,Positive,Amazon,2025-03-01,art_fan,Mexico City,0.95
+Total waste of money,Negative,Yelp Reviews,2025-03-02,buyer_007,Singapore,0.91
+Highly recommend this product,Positive,Online Store,2025-03-03,local_guide,Dubai,0.98
+Arrived broken,Negative,Etsy,2025-03-04,user7890,Madrid,0.88
+Five stars,Positive,TripAdvisor,2025-03-05,client_3,Rome,0.97
+Do not buy,Negative,Spotify,2025-03-06,patron_5,Moscow,0.93
+Will buy again for sure,Positive,Website,2025-03-07,user_A1,London,0.96
+Worst product ever,Negative,eBay,2025-03-08,reviewer99,Paris,0.85
+Best purchase ever,Positive,Google Maps,2025-03-09,happy_buyer,Tokyo,0.99
+Terrible quality,Negative,Zomato,2025-03-10,critic_22,New York,0.90
+Fantastic quality,Positive,Goodreads,2025-03-11,test_user,Los Angeles,0.97
+Hated it,Negative,Product Hunt,2025-03-12,anon56,Sydney,0.82
+Loved it,Positive,Amazon,2025-03-13,shopper_B,Berlin,0.94
+Poor value,Negative,Yelp Reviews,2025-03-14,traveler_Z,Toronto,0.79
+Great value,Positive,Online Store,2025-03-15,music_fan,Chicago,0.92
+Shipping was so slow,Negative,Etsy,2025-03-16,food_lover,San Francisco,0.86
+Super fast delivery,Positive,TripAdvisor,2025-03-17,book_nerd,Mumbai,0.95
+Rude customer service,Negative,Spotify,2025-03-18,tech_wiz,Seoul,0.81
+Excellent customer service,Positive,Website,2025-03-19,art_fan,Mexico City,0.97
+Did not fit,Negative,eBay,2025-03-20,buyer_007,Singapore,0.77
+Perfect fit,Positive,Google Maps,2025-03-21,local_guide,Dubai,0.96
+Not as advertised,Negative,Zomato,2025-03-22,user7890,Madrid,0.89
+Exactly as described,Positive,Goodreads,2025-03-23,client_3,Rome,0.98
+Horrible experience,Negative,Product Hunt,2025-03-24,patron_5,Moscow,0.92
+Wonderful experience,Positive,Amazon,2025-03-25,user_A1,London,0.95
+So disappointed,Negative,Yelp Reviews,2025-03-26,reviewer99,Paris,0.84
+So impressed,Positive,Online Store,2025-03-27,happy_buyer,Tokyo,0.97
+My new least favorite,Negative,Etsy,2025-03-28,critic_22,New York,0.80
+My new favorite,Positive,TripAdvisor,2025-03-29,test_user,Los Angeles,0.96
+Low quality,Negative,Spotify,2025-03-30,anon56,Sydney,0.87
+Top quality,Positive,Website,2025-03-31,shopper_B,Berlin,0.99
+Very unsatisfied,Negative,eBay,2025-04-01,traveler_Z,Toronto,0.83
+Very satisfied,Positive,Google Maps,2025-04-02,music_fan,Chicago,0.94
+Does not work,Negative,Zomato,2025-04-03,food_lover,San Francisco,0.91
+Works perfectly,Positive,Goodreads,2025-04-04,book_nerd,Mumbai,0.98
+A must-avoid item,Negative,Product Hunt,2025-04-05,tech_wiz,Seoul,0.88
+A must-have item,Positive,Amazon,2025-04-06,art_fan,Mexico City,0.97
+Truly awful,Negative,Yelp Reviews,2025-04-07,buyer_007,Singapore,0.90
+Truly exceptional,Positive,Online Store,2025-04-08,local_guide,Dubai,0.99
+Item never arrived,Negative,Etsy,2025-04-09,user7890,Madrid,0.94
+Absolutely amazing,Positive,TripAdvisor,2025-04-10,client_3,Rome,0.95
+Total waste of money,Negative,Spotify,2025-04-11,patron_5,Moscow,0.91
+Highly recommend this product,Positive,Website,2025-04-12,user_A1,London,0.98
+Arrived broken,Negative,eBay,2025-04-13,reviewer99,Paris,0.88
+Five stars,Positive,Google Maps,2025-04-14,happy_buyer,Tokyo,0.97
+Do not buy,Negative,Zomato,2025-04-15,critic_22,New York,0.93
+Will buy again for sure,Positive,Goodreads,2025-04-16,test_user,Los Angeles,0.96
+Worst product ever,Negative,Product Hunt,2025-04-17,anon56,Sydney,0.85
+Best purchase ever,Positive,Amazon,2025-04-18,shopper_B,Berlin,0.99
+Terrible quality,Negative,Yelp Reviews,2025-04-19,traveler_Z,Toronto,0.90
+Fantastic quality,Positive,Online Store,2025-04-20,music_fan,Chicago,0.97
+Hated it,Negative,Etsy,2025-04-21,food_lover,San Francisco,0.82
+Loved it,Positive,TripAdvisor,2025-04-22,book_nerd,Mumbai,0.94
+Poor value,Negative,Spotify,2025-04-23,tech_wiz,Seoul,0.79
+Great value,Positive,Website,2025-04-24,art_fan,Mexico City,0.92
+Shipping was so slow,Negative,eBay,2025-04-25,buyer_007,Singapore,0.86
+Super fast delivery,Positive,Google Maps,2025-04-26,local_guide,Dubai,0.95
+Rude customer service,Negative,Zomato,2025-04-27,user7890,Madrid,0.81
+Excellent customer service,Positive,Goodreads,2025-04-28,client_3,Rome,0.97
+Did not fit,Negative,Product Hunt,2025-04-29,patron_5,Moscow,0.77
+Perfect fit,Positive,Amazon,2025-04-30,user_A1,London,0.96
+Not as advertised,Negative,Yelp Reviews,2025-05-01,reviewer99,Paris,0.89
+Exactly as described,Positive,Online Store,2025-05-02,happy_buyer,Tokyo,0.98
+Horrible experience,Negative,Etsy,2025-05-03,critic_22,New York,0.92
+Wonderful experience,Positive,TripAdvisor,2025-05-04,test_user,Los Angeles,0.95
+So disappointed,Negative,Spotify,2025-05-05,anon56,Sydney,0.84
+So impressed,Positive,Website,2025-05-06,shopper_B,Berlin,0.97
+My new least favorite,Negative,eBay,2025-05-07,traveler_Z,Toronto,0.80
+My new favorite,Positive,Google Maps,2025-05-08,music_fan,Chicago,0.96
+Low quality,Negative,Zomato,2025-05-09,food_lover,San Francisco,0.87
+Top quality,Positive,Goodreads,2025-05-10,book_nerd,Mumbai,0.99
+Very unsatisfied,Negative,Product Hunt,2025-05-11,tech_wiz,Seoul,0.83
+Very satisfied,Positive,Amazon,2025-05-12,art_fan,Mexico City,0.94
+Does not work,Negative,Yelp Reviews,2025-05-13,buyer_007,Singapore,0.91
+Works perfectly,Positive,Online Store,2025-05-14,local_guide,Dubai,0.98
+A must-avoid item,Negative,Etsy,2025-05-15,user7890,Madrid,0.88
+A must-have item,Positive,TripAdvisor,2025-05-16,client_3,Rome,0.97
+Truly awful,Negative,Spotify,2025-05-17,patron_5,Moscow,0.90
+Truly exceptional,Positive,Website,2025-05-18,user_A1,London,0.99
+Item never arrived,Negative,eBay,2025-05-19,reviewer99,Paris,0.94
+Absolutely amazing,Positive,Google Maps,2025-05-20,happy_buyer,Tokyo,0.95
+Total waste of money,Negative,Zomato,2025-05-21,critic_22,New York,0.91
+Highly recommend this product,Positive,Goodreads,2025-05-22,test_user,Los Angeles,0.98
+Arrived broken,Negative,Product Hunt,2025-05-23,anon56,Sydney,0.88
+Five stars,Positive,Amazon,2025-05-24,shopper_B,Berlin,0.97
+Do not buy,Negative,Yelp Reviews,2025-05-25,traveler_Z,Toronto,0.93
+Will buy again for sure,Positive,Online Store,2025-05-26,music_fan,Chicago,0.96
+Worst product ever,Negative,Etsy,2025-05-27,food_lover,San Francisco,0.85
+Best purchase ever,Positive,TripAdvisor,2025-05-28,book_nerd,Mumbai,0.99
+Terrible quality,Negative,Spotify,2025-05-29,tech_wiz,Seoul,0.90
+Fantastic quality,Positive,Website,2025-05-30,art_fan,Mexico City,0.97
+Hated it,Negative,eBay,2025-05-31,buyer_007,Singapore,0.82
+Loved it,Positive,Google Maps,2025-06-01,local_guide,Dubai,0.94
+Poor value,Negative,Zomato,2025-06-02,user7890,Madrid,0.79
+Great value,Positive,Goodreads,2025-06-03,client_3,Rome,0.92
+Shipping was so slow,Negative,Product Hunt,2025-06-04,patron_5,Moscow,0.86
+Super fast delivery,Positive,Amazon,2025-06-05,user_A1,London,0.95
+Rude customer service,Negative,Yelp Reviews,2025-06-06,reviewer99,Paris,0.81
+Excellent customer service,Positive,Online Store,2025-06-07,happy_buyer,Tokyo,0.97
+Did not fit,Negative,Etsy,2025-06-08,critic_22,New York,0.77
+Perfect fit,Positive,TripAdvisor,2025-06-09,test_user,Los Angeles,0.96
+Not as advertised,Negative,Spotify,2025-06-10,anon56,Sydney,0.89
+Exactly as described,Positive,Website,2025-06-11,shopper_B,Berlin,0.98
+Horrible experience,Negative,eBay,2025-06-12,traveler_Z,Toronto,0.92
+Wonderful experience,Positive,Google Maps,2025-06-13,music_fan,Chicago,0.95
+So disappointed,Negative,Zomato,2025-06-14,food_lover,San Francisco,0.84
+So impressed,Positive,Goodreads,2025-06-15,book_nerd,Mumbai,0.97
+My new least favorite,Negative,Product Hunt,2025-06-16,tech_wiz,Seoul,0.80
+My new favorite,Positive,Amazon,2025-06-17,art_fan,Mexico City,0.96
+Low quality,Negative,Yelp Reviews,2025-06-18,buyer_007,Singapore,0.87
+Top quality,Positive,Online Store,2025-06-19,local_guide,Dubai,0.99
+Very unsatisfied,Negative,Etsy,2025-06-20,user7890,Madrid,0.83
+Very satisfied,Positive,TripAdvisor,2025-06-21,client_3,Rome,0.94
+Does not work,Negative,Spotify,2025-06-22,patron_5,Moscow,0.91
+Works perfectly,Positive,Website,2025-06-23,user_A1,London,0.98
+A must-avoid item,Negative,eBay,2025-06-24,reviewer99,Paris,0.88
+A must-have item,Positive,Google Maps,2025-06-25,happy_buyer,Tokyo,0.97
+Truly awful,Negative,Zomato,2025-06-26,critic_22,New York,0.90
+Truly exceptional,Positive,Goodreads,2025-06-27,test_user,Los Angeles,0.99
+Item never arrived,Negative,Product Hunt,2025-06-28,anon56,Sydney,0.94
+Absolutely amazing,Positive,Amazon,2025-06-29,shopper_B,Berlin,0.95
+Total waste of money,Negative,Yelp Reviews,2025-06-30,traveler_Z,Toronto,0.91
+Highly recommend this product,Positive,Online Store,2025-07-01,music_fan,Chicago,0.98
+Arrived broken,Negative,Etsy,2025-07-02,food_lover,San Francisco,0.88
+Five stars,Positive,TripAdvisor,2025-07-03,book_nerd,Mumbai,0.97
+Do not buy,Negative,Spotify,2025-07-04,tech_wiz,Seoul,0.93
+Will buy again for sure,Positive,Website,2025-07-05,art_fan,Mexico City,0.96
+Worst product ever,Negative,eBay,2025-07-06,buyer_007,Singapore,0.85
+Best purchase ever,Positive,Google Maps,2025-07-07,local_guide,Dubai,0.99
+Terrible quality,Negative,Zomato,2025-07-08,user7890,Madrid,0.90
+Fantastic quality,Positive,Goodreads,2025-07-09,client_3,Rome,0.97
+Hated it,Negative,Product Hunt,2025-07-10,patron_5,Moscow,0.82
+Loved it,Positive,Amazon,2025-07-11,user_A1,London,0.94
+Poor value,Negative,Yelp Reviews,2025-07-12,reviewer99,Paris,0.79
+Great value,Positive,Online Store,2025-07-13,happy_buyer,Tokyo,0.92
+Shipping was so slow,Negative,Etsy,2025-07-14,critic_22,New York,0.86
+Super fast delivery,Positive,TripAdvisor,2025-07-15,test_user,Los Angeles,0.95
+Rude customer service,Negative,Spotify,2025-07-16,anon56,Sydney,0.81
+Excellent customer service,Positive,Website,2025-07-17,shopper_B,Berlin,0.97
+Did not fit,Negative,eBay,2025-07-18,traveler_Z,Toronto,0.77
+Perfect fit,Positive,Google Maps,2025-07-19,music_fan,Chicago,0.96
+Not as advertised,Negative,Zomato,2025-07-20,food_lover,San Francisco,0.89
+Exactly as described,Positive,Goodreads,2025-07-21,book_nerd,Mumbai,0.98
+Horrible experience,Negative,Product Hunt,2025-07-22,tech_wiz,Seoul,0.92
+Wonderful experience,Positive,Amazon,2025-07-23,art_fan,Mexico City,0.95
+So disappointed,Negative,Yelp Reviews,2025-07-24,buyer_007,Singapore,0.84
+So impressed,Positive,Online Store,2025-07-25,local_guide,Dubai,0.97
+My new least favorite,Negative,Etsy,2025-07-26,user7890,Madrid,0.80
+My new favorite,Positive,TripAdvisor,2025-07-27,client_3,Rome,0.96
+Low quality,Negative,Spotify,2025-07-28,patron_5,Moscow,0.87
+Top quality,Positive,Website,2025-07-29,user_A1,London,0.99
+Very unsatisfied,Negative,eBay,2025-07-30,reviewer99,Paris,0.83
+Very satisfied,Positive,Google Maps,2025-07-31,happy_buyer,Tokyo,0.94
+Does not work,Negative,Zomato,2025-08-01,critic_22,New York,0.91
+Works perfectly,Positive,Goodreads,2025-08-02,test_user,Los Angeles,0.98
+A must-avoid item,Negative,Product Hunt,2025-08-03,anon56,Sydney,0.88
+A must-have item,Positive,Amazon,2025-08-04,shopper_B,Berlin,0.97
+Truly awful,Negative,Yelp Reviews,2025-08-05,traveler_Z,Toronto,0.90
+Truly exceptional,Positive,Online Store,2025-08-06,music_fan,Chicago,0.99
+Item never arrived,Negative,Etsy,2025-08-07,food_lover,San Francisco,0.94
+Absolutely amazing,Positive,TripAdvisor,2025-08-08,book_nerd,Mumbai,0.95
+Total waste of money,Negative,Spotify,2025-08-09,tech_wiz,Seoul,0.91
+Highly recommend this product,Positive,Website,2025-08-10,art_fan,Mexico City,0.98
+Arrived broken,Negative,eBay,2025-08-11,buyer_007,Singapore,0.88
+Five stars,Positive,Google Maps,2025-08-12,local_guide,Dubai,0.97
+Do not buy,Negative,Zomato,2025-08-13,user7890,Madrid,0.93
+Will buy again for sure,Positive,Goodreads,2025-08-14,client_3,Rome,0.96
+Worst product ever,Negative,Product Hunt,2025-08-15,patron_5,Moscow,0.85
+Best purchase ever,Positive,Amazon,2025-08-16,user_A1,London,0.99
+Terrible quality,Negative,Yelp Reviews,2025-08-17,reviewer99,Paris,0.90
+Fantastic quality,Positive,Online Store,2025-08-18,happy_buyer,Tokyo,0.97
+Hated it,Negative,Etsy,2025-08-19,critic_22,New York,0.82
+Loved it,Positive,TripAdvisor,2025-08-20,test_user,Los Angeles,0.94
+Poor value,Negative,Spotify,2025-08-21,anon56,Sydney,0.79
+Great value,Positive,Website,2025-08-22,shopper_B,Berlin,0.92
+Shipping was so slow,Negative,eBay,2025-08-23,traveler_Z,Toronto,0.86
+Super fast delivery,Positive,Google Maps,2025-08-24,music_fan,Chicago,0.95
+Rude customer service,Negative,Zomato,2025-08-25,food_lover,San Francisco,0.81
+Excellent customer service,Positive,Goodreads,2025-08-26,book_nerd,Mumbai,0.97
+Did not fit,Negative,Product Hunt,2025-08-27,tech_wiz,Seoul,0.77
+Perfect fit,Positive,Amazon,2025-08-28,art_fan,Mexico City,0.96
+Not as advertised,Negative,Yelp Reviews,2025-08-29,buyer_007,Singapore,0.89
+Exactly as described,Positive,Online Store,2025-08-30,local_guide,Dubai,0.98
+Horrible experience,Negative,Etsy,2025-08-31,user7890,Madrid,0.92
+Wonderful experience,Positive,TripAdvisor,2025-09-01,client_3,Rome,0.95
+So disappointed,Negative,Spotify,2025-09-02,patron_5,Moscow,0.84
+So impressed,Positive,Website,2025-09-03,user_A1,London,0.97
+My new least favorite,Negative,eBay,2025-09-04,reviewer99,Paris,0.80
+My new favorite,Positive,Google Maps,2025-09-05,happy_buyer,Tokyo,0.96
+Low quality,Negative,Zomato,2025-09-06,critic_22,New York,0.87
+Top quality,Positive,Goodreads,2025-09-07,test_user,Los Angeles,0.99
+Very unsatisfied,Negative,Product Hunt,2025-09-08,anon56,Sydney,0.83
+Very satisfied,Positive,Amazon,2025-09-09,shopper_B,Berlin,0.94
+Does not work,Negative,Yelp Reviews,2025-09-10,traveler_Z,Toronto,0.91
+Works perfectly,Positive,Online Store,2025-09-11,music_fan,Chicago,0.98
+A must-avoid item,Negative,Etsy,2025-09-12,food_lover,San Francisco,0.88
+A must-have item,Positive,TripAdvisor,2025-09-13,book_nerd,Mumbai,0.97
+Truly awful,Negative,Spotify,2025-09-14,tech_wiz,Seoul,0.90
+Truly exceptional,Positive,Website,2025-09-15,art_fan,Mexico City,0.99
+Item never arrived,Negative,eBay,2025-09-16,buyer_007,Singapore,0.94
+Absolutely amazing,Positive,Google Maps,2025-09-17,local_guide,Dubai,0.95
+Total waste of money,Negative,Zomato,2025-09-18,user7890,Madrid,0.91
+Highly recommend this product,Positive,Goodreads,2025-09-19,client_3,Rome,0.98
+Arrived broken,Negative,Product Hunt,2025-09-20,patron_5,Moscow,0.88
+Five stars,Positive,Amazon,2025-09-21,user_A1,London,0.97
+Do not buy,Negative,Yelp Reviews,2025-09-22,reviewer99,Paris,0.93
+Will buy again for sure,Positive,Online Store,2025-09-23,happy_buyer,Tokyo,0.96
+Worst product ever,Negative,Etsy,2025-09-24,critic_22,New York,0.85
+Best purchase ever,Positive,TripAdvisor,2025-09-25,test_user,Los Angeles,0.99
+Terrible quality,Negative,Spotify,2025-09-26,anon56,Sydney,0.90
+Fantastic quality,Positive,Website,2025-09-27,shopper_B,Berlin,0.97
+Hated it,Negative,eBay,2025-09-28,traveler_Z,Toronto,0.82
+Loved it,Positive,Google Maps,2025-09-29,music_fan,Chicago,0.94
+Poor value,Negative,Zomato,2025-09-30,food_lover,San Francisco,0.79
+Great value,Positive,Goodreads,2025-10-01,book_nerd,Mumbai,0.92
+Shipping was so slow,Negative,Product Hunt,2025-10-02,tech_wiz,Seoul,0.86
+Super fast delivery,Positive,Amazon,2025-10-03,art_fan,Mexico City,0.95
+Rude customer service,Negative,Yelp Reviews,2025-10-04,buyer_007,Singapore,0.81
+Excellent customer service,Positive,Online Store,2025-10-05,local_guide,Dubai,0.97
+Did not fit,Negative,Etsy,2025-10-06,user7890,Madrid,0.77
+Perfect fit,Positive,TripAdvisor,2025-10-07,client_3,Rome,0.96
+Not as advertised,Negative,Spotify,2025-10-08,patron_5,Moscow,0.89
+Exactly as described,Positive,Website,2025-10-09,user_A1,London,0.98
+Horrible experience,Negative,eBay,2025-10-10,reviewer99,Paris,0.92
+Wonderful experience,Positive,Google Maps,2025-10-11,happy_buyer,Tokyo,0.95
+So disappointed,Negative,Zomato,2025-10-12,critic_22,New York,0.84
+So impressed,Positive,Goodreads,2025-10-13,test_user,Los Angeles,0.97
+My new least favorite,Negative,Product Hunt,2025-10-14,anon56,Sydney,0.80
+My new favorite,Positive,Amazon,2025-10-15,shopper_B,Berlin,0.96
+Low quality,Negative,Yelp Reviews,2025-10-16,traveler_Z,Toronto,0.87
+Top quality,Positive,Online Store,2025-10-17,music_fan,Chicago,0.99
+Very unsatisfied,Negative,Etsy,2025-10-18,food_lover,San Francisco,0.83
+Very satisfied,Positive,TripAdvisor,2025-10-19,book_nerd,Mumbai,0.94
+Does not work,Negative,Spotify,2025-10-20,tech_wiz,Seoul,0.91
+Works perfectly,Positive,Website,2025-10-21,art_fan,Mexico City,0.98
+A must-avoid item,Negative,eBay,2025-10-22,buyer_007,Singapore,0.88
+A must-have item,Positive,Google Maps,2025-10-23,local_guide,Dubai,0.97
+Truly awful,Negative,Zomato,2025-10-24,user7890,Madrid,0.90
+Truly exceptional,Positive,Goodreads,2025-10-25,client_3,Rome,0.99
+Item never arrived,Negative,Product Hunt,2025-10-26,patron_5,Moscow,0.94
